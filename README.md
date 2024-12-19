@@ -51,7 +51,7 @@ npm run build
 ---
 
 ## 🖼️ Preview  
-**https://realme-clone-moraza.netlify.app/**  
+**https://eclectic-entremet-2304ef.netlify.app/**  
 
 ---
 
